@@ -6,3 +6,6 @@ cookies
 biscuits
 donut
 crisps
+popcons
+juice
+wafles
