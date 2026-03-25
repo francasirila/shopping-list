@@ -1,0 +1,6 @@
+tissue 
+detergents
+buckets
+mop
+brush
+wipes
